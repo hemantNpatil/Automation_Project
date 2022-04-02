@@ -1,0 +1,1 @@
+10 12 * * * root /root/Automation_Project/automation.sh
